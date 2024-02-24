@@ -36,7 +36,7 @@ Pull requests (PRs) são bem-vindos, mas devem seguir algumas diretrizes:
 
 ## Código de Conduta
 
-Participar deste projeto significa que você concorda em respeitar nosso Código de Conduta. Por favor, leia e siga nosso [Código de Conduta](CODE_OF_CONDUCT.md).
+Participar deste projeto significa que você concorda em respeitar nosso Código de Conduta. 
 
 ## Perguntas?
 
