@@ -1,6 +1,6 @@
 {
   "name": "bot_ts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Template de bot Discord em TypeScript. Inclui Licença MIT (ver LICENSE.md).",
   "main": "index.ts",
   "scripts": {

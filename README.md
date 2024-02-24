@@ -15,8 +15,8 @@ Siga estes passos para configurar o bot para uso local.
 ### Clone o Repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
-cd NOME_DO_SEU_REPOSITORIO
+git clone https://github.com/KeviNKvN-X/Template-de-Bot-em-TypeScript
+cd Template-de-Bot-em-TypeScript
 ```
 
 ### Instale as Dependências
