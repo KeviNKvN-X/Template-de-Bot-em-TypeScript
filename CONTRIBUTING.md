@@ -34,9 +34,6 @@ Pull requests (PRs) são bem-vindos, mas devem seguir algumas diretrizes:
 4. Atualize a documentação, se necessário.
 5. Envie sua pull request com uma descrição detalhada dos seus mudanças e o motivo delas.
 
-## Código de Conduta
-
-Participar deste projeto significa que você concorda em respeitar nosso Código de Conduta. 
 
 ## Perguntas?
 
