@@ -1,0 +1,21 @@
+{
+  "name": "bot_ts",
+  "version": "0.0.1",
+  "description": "Template de bot Discord em TypeScript. Inclui Licença MIT (ver LICENSE.md).",
+  "main": "index.ts",
+  "scripts": {
+    "start:dev": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevinkvn_",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.19",
+    "discord-api-types": "^0.37.70",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "fs": "^0.0.1-security",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
