@@ -81,6 +81,9 @@ const commandExample = createCommand({
     type: typeCommand.all,
     slashCommandOptions?: [],
     permissions: [],
+    execute: async (args: Message | CommandInteraction) =>{
+        // codigo do comando
+     }
 })
 ```
 
