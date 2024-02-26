@@ -44,8 +44,8 @@ Edite o arquivo `.env` com as suas configurações específicas (tokens, chaves 
 Exemplo de variáveis no `.env`:
 
 ```plaintext
-DISCORD_BOT_TOKEN=seu_token_aqui
-DISCORD_CLIENT_ID=seu_client_id_aqui
+DISCORD_TOKEN=SEU_TOKEN_AQUI
+CLIENT_ID=SEU_CLIENT_ID_AQUI
 ```
 
 ### Inicie o Bot
@@ -61,7 +61,7 @@ npm run start:dev
 ### Criação de Comandos
 
 Para criar novos comandos para o bot, você pode seguir o exemplo fornecido em `src/examples/commandExample.ts`. Este arquivo contém um template básico para a estruturação de comandos.
-
+<!-- 
 ```typescript
 // Exemplo simplificado da estrutura de um comando
 import { typeCommand } from "../types";
@@ -85,13 +85,13 @@ const commandExample = createCommand({
         // codigo do comando
      }
 })
-```
+``` -->
 
 ### Criação de Eventos
 
 Para integrar novos eventos ao bot, siga o exemplo em `src/events/eventExample.ts`.
 
-```typescript
+<!-- ```typescript
 // Exemplo de implementação de um evento
 import { Events } from "discord.js";
 import { EventType } from "../types";
@@ -105,7 +105,7 @@ const EventExample: EventType = {
 }
 
 export default EventExample;
-```
+``` -->
 
 ## 🤝 Contribuindo
 
