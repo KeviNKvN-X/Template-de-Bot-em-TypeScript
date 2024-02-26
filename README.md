@@ -113,7 +113,7 @@ Contribuições são sempre bem-vindas! Veja `CONTRIBUTING.md` para mais informa
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## 📞 Contato
 
