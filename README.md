@@ -109,7 +109,7 @@ export default EventExample;
 
 ## 🤝 Contribuindo
 
-Contribuições são sempre bem-vindas! Veja `CONTRIBUTING.md` para mais informações sobre como contribuir para este projeto.
+Contribuições são sempre bem-vindas! Veja [CONTRIBUTING](CONTRIBUTING.md) para mais informações sobre como contribuir para este projeto.
 
 ## 📄 Licença
 
