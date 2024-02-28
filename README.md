@@ -44,8 +44,8 @@ Edite o arquivo `.env` com as suas configurações específicas (tokens, chaves 
 Exemplo de variáveis no `.env`:
 
 ```plaintext
-DISCORD_BOT_TOKEN=seu_token_aqui
-DISCORD_CLIENT_ID=seu_client_id_aqui
+DISCORD_TOKEN=SEU_TOKEN_AQUI
+CLIENT_ID=SEU_CLIENT_ID_AQUI
 ```
 
 ### Inicie o Bot
@@ -109,11 +109,11 @@ export default EventExample;
 
 ## 🤝 Contribuindo
 
-Contribuições são sempre bem-vindas! Veja `CONTRIBUTING.md` para mais informações sobre como contribuir para este projeto.
+Contribuições são sempre bem-vindas! Veja [CONTRIBUTING](CONTRIBUTING.md) para mais informações sobre como contribuir para este projeto.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## 📞 Contato
 
