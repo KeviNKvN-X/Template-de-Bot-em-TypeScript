@@ -15,6 +15,11 @@ const categories = {
         emoji: "🔨",
         description: "Comandos para ajudar na gestão e moderação do servidor."
     },
+    Moderacao: {
+        name: "Moderação",
+        emoji: "🔒",
+        description: "Comandos para gerenciar o modo de moderação do servidor."
+    },
     Musica: {
         name: "Música",
         emoji: "🎵",
